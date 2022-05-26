@@ -2,8 +2,9 @@
 
 A new Flutter project.
 
-
+<div class"col"> ![Screenshot_1653574473](https://user-images.githubusercontent.com/102043234/170507675-ddd4fc80-ffb7-47aa-b1ae-757c0ef09513.png)
 ![Screenshot_1653574473](https://user-images.githubusercontent.com/102043234/170507675-ddd4fc80-ffb7-47aa-b1ae-757c0ef09513.png)
+<div/>
 
 
 ## Getting Started
