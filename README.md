@@ -2,16 +2,12 @@
 
 A new Flutter project.
 
-<div class="row">
-  <div class="column">
+<div >
     <img src="assets/1.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="assets/1.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="assets/1.png" alt="Mountains" style="width:100%">
-  </div>
+
+    <img src="assets/2.png" alt="Forest" style="width:100%">
+ 
+    <img src="assets/3.png" alt="Mountains" style="width:100%">
 </div>
 
 
