@@ -122,6 +122,9 @@ class _FallarState extends State<Fallar> {
                 ),
               ),
             ),
+            const SizedBox(
+              height: 20,
+            ),
             Container(
               padding: const EdgeInsets.symmetric(horizontal: 25),
               height: 150,
