@@ -2,22 +2,12 @@
 
 A new Flutter project.
 
-<div >
-    <img src="assets/1.png" alt="Snow" style="width:100%">
-
-    <img src="assets/2.png" alt="Forest" style="width:100%">
- 
-    <img src="assets/3.png" alt="Mountains" style="width:100%">
-</div>
-
-
+<img src="assets/1.png" width="250"> | <img src="assets/2.png" width="250"> | <img src="assets/3.png" width="250"> |
 
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-    <img src="assets/1.png" alt="Snow" style="width:100%" />
 
 A few resources to get you started if this is your first Flutter project:
 
